@@ -2,9 +2,14 @@
 
 This project is a simple accordion component inspired by the W3Schools example.
 
+## News
+
+Exciting news! A feature branch is on the horizon, bringing with it an ACF (Advanced Custom Fields) version of the accordion! Get ready for a whole new level of customization and functionality! Stay tuned for updates!
+
 ## Overview
 
 The accordion component allows you to toggle the display of content sections, showing only one section at a time.
+-Tested in Codepen.
 
 ## Features
 
