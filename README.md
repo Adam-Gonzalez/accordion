@@ -1,4 +1,4 @@
-# Accordion Component
+# HTML Accordion Component
 
 This project is a simple accordion component inspired by the W3Schools example.
 
