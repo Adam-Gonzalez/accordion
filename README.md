@@ -15,6 +15,9 @@ The accordion component allows you to toggle the display of content sections, sh
 
 To use the accordion component in your project, you can include the necessary HTML, CSS, and JavaScript files in your project directory.
 
+## Source
+W3Schools
+
 ```html
 <link rel="stylesheet" href="accordion.css">
 <script src="accordion.js"></script>
